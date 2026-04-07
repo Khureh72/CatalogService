@@ -19,7 +19,7 @@ npm start
 
 ## Dockerize
 ```
-ddocker compose up --build
+docker compose up --build
 ```
 
 ## Object Example
